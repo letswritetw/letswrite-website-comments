@@ -1,7 +1,7 @@
 {
   "init": "留言功能載入中…",
-  "no-found-related": "還沒有人留言",
-  "please-contact": "請聯絡 %{user} 初始化評論",
+  "no-found-related": "目前還沒有人留言",
+  "please-contact": "登入 GitHub 帳號後就可以留言囉~",
   "init-issue": "初始化留言",
   "leave-a-comment": "留下點什麼",
   "preview": "預覽",

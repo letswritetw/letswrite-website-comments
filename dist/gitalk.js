@@ -17666,7 +17666,7 @@ module.exports = {"init":"Gitalk 加载中 ...","no-found-related":"未找到相
 /* 263 */
 /***/ (function(module, exports) {
 
-module.exports = {"init":"留言功能載入中…","no-found-related":"還沒有人留言","please-contact":"請聯絡 %{user} 初始化評論","init-issue":"初始化留言","leave-a-comment":"留下點什麼","preview":"預覽","edit":"編輯","comment":"留言","support-markdown":"支援 Markdown 語法","login-with-github":"使用 GitHub 登入","first-comment-person":"搶頭香成為第一位留言的人吧！","commented":"留言於","load-more":"載入更多","counts":"%{counts} 筆留言","sort-asc":"從舊至新排序","sort-desc":"從新至舊排序","logout":"登出","anonymous":"訪客"}
+module.exports = {"init":"留言功能載入中…","no-found-related":"目前還沒有人留言","please-contact":"登入 GitHub 帳號後就可以留言囉~","init-issue":"初始化留言","leave-a-comment":"留下點什麼","preview":"預覽","edit":"編輯","comment":"留言","support-markdown":"支援 Markdown 語法","login-with-github":"使用 GitHub 登入","first-comment-person":"搶頭香成為第一位留言的人吧！","commented":"留言於","load-more":"載入更多","counts":"%{counts} 筆留言","sort-asc":"從舊至新排序","sort-desc":"從新至舊排序","logout":"登出","anonymous":"訪客"}
 
 /***/ }),
 /* 264 */
