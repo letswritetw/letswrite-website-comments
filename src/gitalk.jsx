@@ -730,7 +730,7 @@ class GitalkComponent extends Component {
             }
             <div className="gt-copyright">
               <a className="gt-link gt-link-project" href="https://github.com/letswritetw" target="_blank" rel="noopener noreferrer">Let's Write</a>
-              <span className="gt-version">{GT_VERSION}</span>
+              <span className="gt-version">August</span>
             </div>
           </div>
         }

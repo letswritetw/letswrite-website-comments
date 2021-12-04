@@ -14131,7 +14131,7 @@ var GitalkComponent = function (_Component) {
             _react2.default.createElement(
               'span',
               { className: 'gt-version' },
-              _const.GT_VERSION
+              'August'
             )
           )
         ),
