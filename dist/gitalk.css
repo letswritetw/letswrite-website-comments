@@ -728,11 +728,11 @@
           box-sizing: border-box;
 }
 .gt-container a {
-  color: #6190e8;
+  color: #42a6f7;
 }
 .gt-container a:hover {
-  color: #81a6ed;
-  border-color: #81a6ed;
+  color: #68b8f9;
+  border-color: #68b8f9;
 }
 .gt-container a.is--active {
   color: #333;
@@ -753,7 +753,7 @@
 .gt-container .gt-svg svg {
   width: 100%;
   height: 100%;
-  fill: #6190e8;
+  fill: #42a6f7;
 }
 .gt-container .gt-ico {
   display: inline-block;
@@ -787,7 +787,7 @@
   margin-left: -0.375em;
   border-radius: 50%;
   border: 1px solid #fff;
-  border-top-color: #6190e8;
+  border-top-color: #42a6f7;
   -webkit-animation: gt-kf-rotate 0.6s linear infinite;
           animation: gt-kf-rotate 0.6s linear infinite;
 }
@@ -850,9 +850,9 @@
   text-decoration: none;
   white-space: nowrap;
   cursor: pointer;
-  border: 1px solid #6190e8;
-  border-radius: 5px;
-  background-color: #6190e8;
+  border: 1px solid #42a6f7;
+  border-radius: 0.5rem;
+  background-color: #42a6f7;
   color: #fff;
   outline: none;
   font-size: 0.75em;
@@ -877,15 +877,15 @@
 }
 .gt-container .gt-btn-preview {
   background-color: #fff;
-  color: #6190e8;
+  color: #42a6f7;
 }
 .gt-container .gt-btn-preview:hover {
   background-color: #f2f2f2;
-  border-color: #81a6ed;
+  border-color: #68b8f9;
 }
 .gt-container .gt-btn-public:hover {
-  background-color: #81a6ed;
-  border-color: #81a6ed;
+  background-color: #68b8f9;
+  border-color: #68b8f9;
 }
 .gt-container .gt-error {
   text-align: center;
@@ -905,7 +905,7 @@
   text-align: center;
 }
 .gt-container .gt-link {
-  border-bottom: 1px dotted #6190e8;
+  border-bottom: 1px dotted #42a6f7;
 }
 .gt-container .gt-link-counts,
 .gt-container .gt-link-project {
@@ -953,7 +953,7 @@
   fill: inherit;
 }
 .gt-container .gt-user .is--poping .gt-ico svg {
-  fill: #6190e8;
+  fill: #42a6f7;
 }
 .gt-container .gt-version {
   color: #a1a1a1;
@@ -987,7 +987,7 @@
   content: '';
   width: 0.25em;
   height: 0.25em;
-  background: #6190e8;
+  background: #42a6f7;
   position: absolute;
   left: 0.5em;
   top: 0.4375em;
@@ -1017,7 +1017,7 @@
   width: 100%;
   min-height: 5.125em;
   max-height: 15em;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   border: 1px solid rgba(0,0,0,0.1);
   font-size: 0.875em;
   word-wrap: break-word;
@@ -1032,7 +1032,7 @@
 }
 .gt-container .gt-header-preview {
   padding: 0.75em;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   border: 1px solid rgba(0,0,0,0.1);
   background-color: #f6f6f6;
 }
@@ -1055,7 +1055,7 @@
 }
 .gt-container .gt-header-controls-tip {
   font-size: 0.875em;
-  color: #6190e8;
+  color: #42a6f7;
   text-decoration: none;
   vertical-align: sub;
 }
@@ -1158,7 +1158,7 @@
 }
 .gt-container .gt-comment-username {
   font-weight: 500;
-  color: #6190e8;
+  color: #42a6f7;
   text-decoration: none;
 }
 .gt-container .gt-comment-username:hover {
