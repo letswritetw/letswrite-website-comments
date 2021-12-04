@@ -10016,7 +10016,7 @@ var GitalkComponent = function (_Component) {
     _this.options = (0, _assign2.default)({}, {
       id: window.location.href,
       number: -1,
-      labels: ['Lets Write'],
+      labels: ['Lets-Write'],
       title: window.document.title,
       body: '', // window.location.href + header.meta[description]
       language: window.navigator.language || window.navigator.userLanguage,
@@ -10513,7 +10513,7 @@ var GitalkComponent = function (_Component) {
             { className: 'gt-header-controls' },
             _react2.default.createElement(
               'a',
-              { className: 'gt-header-controls-tip', href: 'https://guides.github.com/features/mastering-markdown/', target: '_blank', rel: 'noopener noreferrer' },
+              { className: 'gt-header-controls-tip', href: 'https://www.letswrite.tw/markdown/', target: '_blank' },
               _react2.default.createElement(_svg2.default, { className: 'gt-ico-tip', name: 'tip', text: this.i18n.t('support-markdown') })
             ),
             user && _react2.default.createElement(_button2.default, {
