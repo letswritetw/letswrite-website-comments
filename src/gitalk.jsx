@@ -52,7 +52,7 @@ class GitalkComponent extends Component {
     this.options = Object.assign({}, {
       id: window.location.href,
       number: -1,
-      labels: ['Gitalk'],
+      labels: ['Lets Write'],
       title: window.document.title,
       body: '', // window.location.href + header.meta[description]
       language: window.navigator.language || window.navigator.userLanguage,
@@ -729,7 +729,7 @@ class GitalkComponent extends Component {
               <a className="gt-action gt-action-login" onClick={this.handleLogin}>{this.i18n.t('login-with-github')}</a>
             }
             <div className="gt-copyright">
-              <a className="gt-link gt-link-project" href="https://github.com/gitalk/gitalk" target="_blank" rel="noopener noreferrer">Gitalk</a>
+              <a className="gt-link gt-link-project" href="https://github.com/letswritetw" target="_blank" rel="noopener noreferrer">Let's Write</a>
               <span className="gt-version">{GT_VERSION}</span>
             </div>
           </div>

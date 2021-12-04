@@ -10016,7 +10016,7 @@ var GitalkComponent = function (_Component) {
     _this.options = (0, _assign2.default)({}, {
       id: window.location.href,
       number: -1,
-      labels: ['Gitalk'],
+      labels: ['Lets Write'],
       title: window.document.title,
       body: '', // window.location.href + header.meta[description]
       language: window.navigator.language || window.navigator.userLanguage,
@@ -10633,8 +10633,8 @@ var GitalkComponent = function (_Component) {
             { className: 'gt-copyright' },
             _react2.default.createElement(
               'a',
-              { className: 'gt-link gt-link-project', href: 'https://github.com/gitalk/gitalk', target: '_blank', rel: 'noopener noreferrer' },
-              'Gitalk'
+              { className: 'gt-link gt-link-project', href: 'https://github.com/letswritetw', target: '_blank', rel: 'noopener noreferrer' },
+              'Let\'s Write'
             ),
             _react2.default.createElement(
               'span',
